@@ -57,7 +57,7 @@ I have created a simple page to display all contributors list [here](https://hct
 
 ---
 ## Code Of Conduct
-**Examples of behavior that contributes to creating a positive environment :**
+**Examples of behaviour that contributes to creating a positive environment :**
 - Using welcoming and inclusive language
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
@@ -65,7 +65,7 @@ I have created a simple page to display all contributors list [here](https://hct
 
 
 
-**Examples of unacceptable behavior by participants include:**
+**Examples of unacceptable behaviour by participants include:**
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
